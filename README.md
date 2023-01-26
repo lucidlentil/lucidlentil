@@ -7,6 +7,7 @@ I've recently been earning a qualification in full-stack development, but front-
 I'm currently working on honing my React.js skills in my free time - when assignments will allow it - and am keen on collaborating with other aspiring techies to help bring their visions to life! 
 
 Find me: 
+
 <a href="www.linkedin.com/in/greta-snowling-roach">LinkedIn</a>
 
 
